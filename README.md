@@ -9,8 +9,8 @@ All projects are available in Jupyter notebook .jpynb files, as well as .html fi
 
 '4_Working with Data Sources' contains 3 projects. '1_CIA_factbook_data' and '2_Business_Analysis' were completed using SQL in the Jupyter notebook, and 'stack_exchange' was completed using web scraping in Python.
 
-'5_Probability and Statistics' contains 5 data science projects involving probability and statistics
+'5_Probability and Statistics' contains 5 data science projects showcasing my abilities in probability and statistics.
 
-'6_Machine Learning Intro' contains 3 machine learning projects. 'predicting_car_prices' used K-Nearest Neighbors, and 'predicting_house_prices' used Linear Regression. 'predicting_the_stock_market.tar' also used Linear Regression, and was done in an editor and terminal rather than Jupyter notebook.
+'6_Machine Learning Intro' contains 4 machine learning projects. 'predicting_car_prices' used K-Nearest Neighbors, 'predicting_house_prices' and 'predicting_the_stock_market.tar' used Linear Regression ('predicting_the_stock_market.tar' was done in an editor rather than Jupyter notebook). 'predicting_bike_rentals' used Decision Trees and Random Forests.
 
 I will soon add projects for '7_Machine Learning Intermediate' and '8_Advanced Topics in Data Science' once I have completed those courses.
