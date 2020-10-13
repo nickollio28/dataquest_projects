@@ -11,8 +11,6 @@ All projects are available in Jupyter notebook .jpynb files, as well as .html fi
 
 '5_Probability and Statistics' contains 5 data science projects involving probability and statistics
 
-'6_Machine Learning Intro' contains 2 machine learning projects. 'predicting_car_prices' used K-Nearest Neighbors, and 'predicting_house_prices' used Linear Regression.
+'6_Machine Learning Intro' contains 3 machine learning projects. 'predicting_car_prices' used K-Nearest Neighbors, and 'predicting_house_prices' used Linear Regression. 'predicting_the_stock_market.tar' also used Linear Regression, and was done in an editor and terminal rather than Jupyter notebook.
 
 I will soon add projects for '7_Machine Learning Intermediate' and '8_Advanced Topics in Data Science' once I have completed those courses.
-
-Note: The third course, 'The Command Line' was not included because there were no projects, because the projects were done in Jupyter Notebook which does not support BASH
