@@ -13,4 +13,6 @@ All projects are available in Jupyter notebook .jpynb files, as well as .html fi
 
 '6_Machine Learning Intro' contains 4 machine learning projects. 'predicting_car_prices' used K-Nearest Neighbors, 'predicting_house_prices' and 'predicting_the_stock_market.tar' used Linear Regression ('predicting_the_stock_market.tar' was done in an editor rather than Jupyter notebook). 'predicting_bike_rentals' used Decision Trees and Random Forests.
 
-I will soon add projects for '7_Machine Learning Intermediate' and '8_Advanced Topics in Data Science' once I have completed those courses.
+'7_Machine Learning Intermediate' contains 1 machine learning project, 'neural_network_handwritten_digits_classifier', where I utilize deep learning to classify handwritten digits. I will upload the remaining two projects for this course once I have completed them.
+
+I will soon add projects for '8_Advanced Topics in Data Science' once I have completed those courses.
