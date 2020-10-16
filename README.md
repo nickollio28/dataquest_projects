@@ -1,6 +1,6 @@
 # dataquest_projects
 This repository contains the projects I have completed in my Data Science certification courses from DataQuest.
-Most of the projects were done using Jupyter Notebook, and they are all in a .tar file containing the .jpynb file along with the datasets.
+Most of the projects were done using Jupyter Notebook. The folders contain the .jpynb file along with any necessary datasets.
 
 '1_Python Introduction' contains 2 basic data science projects.
 
