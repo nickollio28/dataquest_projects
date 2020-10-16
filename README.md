@@ -2,6 +2,8 @@
 This repository contains the projects I have completed in my Data Science certification courses from DataQuest.
 Most of the projects were done using Jupyter Notebook. The folders contain the .jpynb file along with any necessary datasets.
 
+*** GitHub may not be able to render the Jupyter Notebooks. Simply copy and paste the URL of the Basics.jpynb file into https://nbviewer.jupyter.org/ and it will render the file there.
+
 '1_Python Introduction' contains 2 basic data science projects.
 
 '2_Data Analysis and Visualization' contains 6 data science projects using the NumPy and Pandas libraries, as well as plots using the MatPlotLib.pyplot and Seaborn libraries for plotting
