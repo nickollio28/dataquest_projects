@@ -1,5 +1,5 @@
 # dataquest_projects
-This repository contains the projects I have completed in my Data Science certification courses from DataQuest.
+This repository contains the projects I have completed in my Data Scientist certification courses from DataQuest.
 Most of the projects were done using Jupyter Notebook. The folders contain the .jpynb file along with any necessary datasets.
 
 ** Note: GitHub may not be able to render the Jupyter Notebooks. Simply copy and paste the URL of the Basics.jpynb file into https://nbviewer.jupyter.org/ and it will render the notebook there.
