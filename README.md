@@ -10,8 +10,8 @@ Most of the projects were done using Jupyter Notebook, and they are all in a .ta
 
 '5_Probability and Statistics' contains 5 data science projects showcasing my abilities in probability and statistics.
 
-'6_Machine Learning Intro' contains 4 machine learning projects. 'Predicting Car Prices' used K-Nearest Neighbors, 'Predicting House Prices' and 'Predicting the Stock Market' used Linear Regression. 'Predicting Bike Rentals' used Decision Trees and Random Forests.
+'6_Machine Learning Intro' contains 4 machine learning projects. 'Predicting Car Prices' uses K-Nearest Neighbors, 'Predicting House Prices' and 'Predicting the Stock Market' use Linear Regression. 'Predicting Bike Rentals' uses Decision Trees and Random Forests.
 
-'7_Machine Learning Intermediate' contains 2 machine learning projects. 'Building a Handwritted Digits Classifier' utilizes deep learning to classify handwritten digits. 'Creating a Kaggle Workflow' creates a workflow for submitting predictions for the Kaggle Titanic competition.
+'7_Machine Learning Intermediate' contains 2 machine learning projects. 'Building a Handwritted Digits Classifier' utilizes deep learning to classify handwritten digits. 'Creating a Kaggle Workflow' creates a pipeline of functions for submitting predictions for the Kaggle Titanic competition.
 
 I will soon add projects for '8_Advanced Topics in Data Science' once I have completed the course.
