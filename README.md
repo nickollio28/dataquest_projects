@@ -2,8 +2,6 @@
 This repository contains the projects I have completed in my Data Scientist certification courses from DataQuest.
 Most of the projects were done using Jupyter Notebook. The folders contain the .jpynb file along with any necessary datasets.
 
-** Note: You must use [this link](https://nbviewer.jupyter.org/github/nickollio28/dataquest_projects/tree/main/) to view my projects, because GitHub is unable to render the Jupyter Notebooks. You can also copy and paste the URL's to individual Basics.jpynb files into https://nbviewer.jupyter.org/ in order to render them.
-
 * '1_Python Introduction' contains 2 basic data science projects.
 
 * '2_Data Analysis and Visualization' contains 6 data science projects using the NumPy and Pandas libraries, as well as plots using the MatPlotLib.pyplot and Seaborn libraries for plotting
@@ -17,4 +15,5 @@ Most of the projects were done using Jupyter Notebook. The folders contain the .
 
 * '7_Machine Learning Intermediate' contains 2 machine learning projects. 'Building a Handwritted Digits Classifier' utilizes deep learning to classify handwritten digits. 'Creating a Kaggle Workflow' creates a pipeline of functions for submitting predictions for the Kaggle Titanic competition.
 
-I will soon add projects for '8_Advanced Topics in Data Science' once I have completed the course.
+
+** Note: You may have to use [this link](https://nbviewer.jupyter.org/github/nickollio28/dataquest_projects/tree/main/) to view my projects, because GitHub is sometimes unable to render the Jupyter Notebooks. You can also copy and paste the URL's to individual Basics.jpynb files into https://nbviewer.jupyter.org/ in order to render them.
